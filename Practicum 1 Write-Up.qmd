@@ -1,0 +1,13 @@
+---
+title: "Practicum 1 Write-Up"
+author: "Leah Kim"
+format: typst
+---
+
+In your write-up, make note of any particular challenges you encountered, as well as any significant differences from what you found when replicating Bartels with the ANES.
+
+#Challenges 
+The biggest challenges for doing this assignment was trying to replicate and remember how to do the assignment that Professor Reilly did. I want to become efficient in my coding and so I wanted to replicate his code, without looking at it too much. But, when things got confusing, I would look back to reference and see how to replot these graphs. I was able to find the variables pretty easily, it was just learning the new code method that I hadn't tried before. 
+
+#Significant Differences 
+For Figure 1a with the new data, strong identifiers have stayed on a higher level compared to the weak identifiers. There is not a time or year when strong identifiers decrease and were at a lower level than weak identifiers, which is different than the original Bartel's graph. For Figure 1b with the new data, leaners are typically higher than pure independents, but these two groups do intersect and there are times where pure independent numbers are higher than the leaners. This is different than the origianl graph. Then for the Figure 2 with showing the voters and nonvoters from 2006-2024, voters stayed at a higher level compared to the nonvoters. Compared to the original graph, the voters and nonvoters numbers are more closely together rather than the original graph which they are more far apart. 
